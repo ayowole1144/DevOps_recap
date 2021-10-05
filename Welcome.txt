@@ -1,0 +1,12 @@
+This is a recap of everything that's been done in the DevOps traing class with Uncle Seun
+We are currently on day 14 and I have been opened up to a lot of new things and tools 
+devOps engineer use on a day to day base. A few of these tools being: AWS, Jenkins, Ubuntu, github, git, Docker
+At the beginning of it we learnt the basic of linux command using Ubuntu, created some shell scripts to 
+check the processes running on our machine, worked with more advanced commands like GREP,AWK,and Crontab
+
+On git we first learnt how to clone a repository onto our machine using
+git clone "repo url", before this I configured git to match my github account
+using the command: git config --global user.name && user.email
+after cloning the repo cloud peris I ran the java web application
+spring-main-petclinic, which was ran on my local computer
+
