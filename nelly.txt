@@ -1,0 +1,10 @@
+After I gain a better understanding this I should start re learning 
+    web APP development and host the finished [website] using the skill
+        learned in cloud peris and use the tools and features to 
+        Task::    [ host the website in the cloud ]
+
+            The website [Portfoli]
+            Should contrain details about what I've learnt and show it and more.
+                Design and build of the website is from scratch
+                (HTML,CSS,mySql, db, and so on)
+                
